@@ -1,0 +1,8 @@
+# Ignora la cartella venv
+venv/
+
+# Ignora la cartella __pycache__
+__pycache__/
+
+# Ignora tutti i file con estensione .env
+*.env
